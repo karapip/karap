@@ -1,2 +1,0 @@
-# karap
-pipo
